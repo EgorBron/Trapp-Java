@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Trapp</string>
+    <string name="buttonGenerate">Generate</string>
+    <string name="buttonSave">Save</string>
+    <string name="buttonFaves">Faves</string>
+    <string name="defaultTextValue">http://link.link</string>
 </resources>
